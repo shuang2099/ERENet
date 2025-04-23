@@ -27,14 +27,20 @@ Edge detection is one of the most fundamental yet challenging problems in comput
 -  **Strong performance** across BIPED, BSDS500, and UDED benchmarks (ODS, OIS, AP).
 
 ---
-## ✅Test
-python test.py 
+
 ## ✅Train
 python main.py 
+  - Note: After training, make sure to save the model weights in the model/ directory:
+torch.save(model.state_dict(), "model/erenet.pth")
+## ✅Test
+python test.py 
 
 ## 📬 Contact
 For questions or collaboration requests, please contact:
 
 - shuangli：shuangli@hit.edu.cn
 - YichengChen：23b933075@stu.hit.edu.cn
+- ChangqingLi：23b933033@stu.hit.edu.cn
+- ChangFeng：23S933033@stu.hit.edu.cn
+- ChanghaiZhai：zch-hit@hit.edu.cn
 
