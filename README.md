@@ -30,8 +30,7 @@ Edge detection is one of the most fundamental yet challenging problems in comput
 
 ## ✅Train
 python main.py 
-  - Note: After training, make sure to save the model weights in the model/ directory:
-torch.save(model.state_dict(), "model/erenet.pth")
+  - Note: After training, make sure to save the model weights in the model directory
 ## ✅Test
 python test.py 
 
