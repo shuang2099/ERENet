@@ -39,7 +39,7 @@ python test.py
 ## 📬 Contact
 For questions or collaboration requests, please contact:
 
-- Shuang li：shuangli@hit.edu.cn
+- Shuang Li：shuangli@hit.edu.cn
 - Yicheng Chen：23b933075@stu.hit.edu.cn
 - Changqing Li：23b933033@stu.hit.edu.cn
 - Chang Feng：23S933033@stu.hit.edu.cn
