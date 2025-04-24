@@ -32,6 +32,7 @@ Edge detection is one of the most fundamental yet challenging problems in comput
 python main.py 
   - Note: After training, make sure to save the model weights in the model directory
 ## ✅Test
+Link to the trained model:https://pan.baidu.com/s/1xxkrmX_NeKptoPo6hU1vbg?pwd=n4xb  code：n4xb
 python test.py 
 
 ---
@@ -39,9 +40,9 @@ python test.py
 ## 📬 Contact
 For questions or collaboration requests, please contact:
 
-- shuangli：shuangli@hit.edu.cn
-- YichengChen：23b933075@stu.hit.edu.cn
-- ChangqingLi：23b933033@stu.hit.edu.cn
-- ChangFeng：23S933033@stu.hit.edu.cn
-- ChanghaiZhai：zch-hit@hit.edu.cn
+- Shuang li：shuangli@hit.edu.cn
+- Yicheng Chen：23b933075@stu.hit.edu.cn
+- Changqing Li：23b933033@stu.hit.edu.cn
+- Chang Feng：23S933033@stu.hit.edu.cn
+- Changhai Zhai：zch-hit@hit.edu.cn
 
