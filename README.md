@@ -32,9 +32,8 @@ Edge detection is one of the most fundamental yet challenging problems in comput
 python main.py 
   - Note: After training, make sure to save the model weights in the model directory
 ## ✅Test
-Link to the trained model:https://pan.baidu.com/s/1xxkrmX_NeKptoPo6hU1vbg?pwd=n4xb  code：n4xb
 python test.py 
-
+  - Link to the trained model:https://pan.baidu.com/s/1xxkrmX_NeKptoPo6hU1vbg?pwd=n4xb  code：n4xb
 ---
 
 ## 📬 Contact
