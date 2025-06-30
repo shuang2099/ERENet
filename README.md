@@ -1,4 +1,4 @@
-# An Edge Refinement and Enhancement Network (ERENet) Using Multi-Level Information Fusion for Edge Detection
+# ERENet: Multi-Level Information Fusion for Refined and Enhanced Edge Detection
 
 **Authors**: Shuang Li, Yicheng Chen, Changqing Li, Chang Feng, Changhai Zhai
 
